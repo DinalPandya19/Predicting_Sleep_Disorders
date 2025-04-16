@@ -1,0 +1,31 @@
+# 💤 Predicting Sleep Disorders
+
+This project uses machine learning to predict sleep disorders, specifically **None**, **Insomnia**, and **Sleep Apnea**, based on demographic, lifestyle, and health factors.
+
+## 📊 Project Objective:
+To build a classification model that helps predict the type of sleep disorder in individuals, enabling early detection and personalized care.
+
+## 🔍 Key Highlights:
+- Data Cleaning: Handled missing values using appropriate imputation techniques.
+- Feature Engineering: Applied encoding techniques and feature selection for better model performance.
+- Model Building: Used Decision Tree and Random Forest for classification.
+- Evaluation: Compared models using accuracy, precision, recall, and F1-score.
+
+## 🛠️ Tools & Technologies:
+- Python (Pandas, NumPy, Scikit-learn)
+- Jupyter Notebook
+- Matplotlib & Seaborn for visualization
+
+## 🎯 Target Column:
+`sleep_disorder`  
+- 0 = None  
+- 1 = Insomnia  
+- 2 = Sleep Apnea
+
+## 📈 Outcome:
+Achieved improved model performance after data cleaning and feature engineering. Random Forest showed strong results in predicting sleep disorders.
+
+---
+
+> 👩‍💻 Created by: Dinal Pandya  
+> 📅 Project Date: 2025
